@@ -15,7 +15,7 @@ Identify all node IP Address  via Gateway
 > sudo chmod +x HA_Gateway_Scan.sh
 
 
-**Step-4 :: Running the script
+**Step-4 :: Running the script**
 
 > sudo bash HA_Gateway_Scan.sh 
 
